@@ -4,3 +4,4 @@ commit test
 tot
 line
 add the new line again
+new line
